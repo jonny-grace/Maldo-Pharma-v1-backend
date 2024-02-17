@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "maldo-e-pharma",
+  "private_key_id": "e05c73f608c564a02ad5c97a4adaa728d67ed3ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7ZGZ7fTqKGq+W\n3GkQMhtHpMEOcp3ADWCjgpW69Z4KVVIYma4cpehl4JZuHOnzoYKKM/qq3BU8X+E/\nNbXkNqAxtv3sbolPDtUzNU3tYBM3Gst7ANRQn6n6tzJJylWI5Tc+LoI0IAGV2YCx\nDJUZ7uiJ3d7wcKfD47wzSDByyLgOr+hiJGA3wYvuZ2zSlzShLs1iRbL8sFuaeo12\nqwOeWJPM9/AM11ReAAKkjLwuR+6/mdn3aNovGEBFxaxDoMdt2NGJrAb1HkFcZdRJ\nYMogiG/ut8EQKU3X3ufbEJ46cYq3QKYZKr+ZROPb3v+P46gUSgFgvbCcdl4RXWBy\nsvjpkE1NAgMBAAECggEAA0sRqQBrp7Mt3E0d1JDI3XK2CNq3ToF9rgn0ty8rWpui\nwHds8ahxw96VTjSYYPV47ZRZxqhtAB1gQEPhoTPbj1wbrMzJgXftg8OfTblnRQvl\nwRDj6lHQAy22hsj1RV1f4eof1Cou1PMYWaQyt5y0/f1F9nxIWn81VsJhRZck8u8Z\nRwANSU74l4NJAR4bD0W5GSnfY8jf3IValZfNqNz1a5D0s9CsnpvaTu7cqa06SRgx\nl9xCq+cuv+DWTAFsL/OJxrRybKkyuZ1g84GNP7dgX1XEGPk2dV+O8wiyWHj4s9I7\nPctmdw6S86EeRFvVHwZE6bjcVeMc0vDhGfKdaBQ7gQKBgQDhhqMmiOKmWRlyk7Bh\nP1kC6Exi6ucHX4Qx++pAERf2Uyp0Sj1J6DlL26gS+AEgdcvLz2H63li2cr4oa9Oe\niOeEb2q2VPeMUoff1xui7yu3/tWMdyA8D7Am4MUIWdDZk9a7MZHBFidp0lbAgCA/\n5JDTwgoJ+CLZzWkVeZVWXbSJgQKBgQDUtqVWDbkT0a2pP+7X9z/JgF7g5jfgSLH8\nXAyOubxbWERzFkIlvIUbaOPcmn1FPhWyH9XaxzH5R4kPTA49+4Irw3bosK7fiKY0\ntUi1VKziAqJ8ASfeeVQUQMcx0XFdcarq9FjBgilr/S4/9K4EleGIwLQxnfKPT763\nXk/YSuyxzQKBgF2PMVfnKb/A7uGti1qMoSynmijfMoDIi1sBGykA7mPuFIqx0cM7\nZ6mkspFL+Yux0p32prsgSsVFzMWQFfaK7SDv5+FEVn4MLvoZjwmFFyn5ujXPpbvE\n9lrqnFLej9nzjv2Rjtn/itJHxF2PydE3zS1MLkX8ftjEcnfKPL3bme4BAoGAa6dE\nZhjr4ivsSAwjRQnNLp3ZZtkczlX8PkwXzuQRf+lcOyK4t4CBnS2opK1LWQ/iyxNx\nmBfYIuEhbKyBSL1RU/TI6VsCJf9ynpphAeSo2nma4kdzdhTRiK6AIaZuSWyNo/um\nL8lATXcFQTkEGS4BxsRAbhwR9pXVX9hLcJv6zsECgYB691WftKbcUidpuRZNBZzV\nMQoF3J3ATOCvIGvlgUy/PyE9P3WDNj1Cb6sRA+HNj+lHByoibHGK6IhfqO6VGBXq\ngs1gkKBy4ACLV+/EJIGHMdaNqoYlcjsmG36z+aIw1nw2IFtNjFDpXBRib6ij51uq\nCiZoYpbHe7gaTGVEO3KwUg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yjr8b@maldo-e-pharma.iam.gserviceaccount.com",
+  "client_id": "108635252392215569726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yjr8b%40maldo-e-pharma.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
